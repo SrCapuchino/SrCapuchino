@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SrCapuchino
 - 👀 I’m interested in BrainRot
 - 🌱 I’m currently learning Java and C
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Double Degree in Computer Engineering and Informatic Technology
 - 📫 How to reach me: capuchinopalomino@gmail.com
 - 😄 Pronouns: Bruh?
 - ⚡ Fun fact: uwu

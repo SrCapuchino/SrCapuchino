@@ -32,9 +32,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <a href="https://github.com/sergio-dev">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=sergio-dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-dev&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/SrCapuchino">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=SrCapuchino&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrCapuchino&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
@@ -42,14 +42,14 @@
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergio-dev&theme=algolia" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrCapuchino&theme=algolia" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 📢 Connect with Me
 <p align="center">
-  <a href="https://github.com/sergio-dev" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+  <a href="https://github.com/SrCapuchino" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
   <a href="https://discord.gg/your-server" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> </a>
 </p>
 
@@ -57,5 +57,5 @@
 
 ## 👀 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sergio-dev&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SrCapuchino&color=blue&style=flat-square" alt="Profile Views" />
 </p>

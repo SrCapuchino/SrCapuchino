@@ -1,12 +1,58 @@
-- 👋 Hi, I’m @SrCapuchino
-- 👀 I’m interested in BrainRot
-- 🌱 I’m currently learning Java and C
-- 💞️ Double Degree in Computer Engineering and Informatic Technology
-- 📫 How to reach me: capuchinopalomino@gmail.com
-- 😄 Pronouns: Bruh?
-- ⚡ Fun fact: uwu
+<div align="center">
+  <h1>Hi there! I'm Sergio 👋</h1>
+</div>
 
-<!---
-SrCapuchino/SrCapuchino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👨‍💻 About Me
+- 🎓 Studying **Computer Science & Computer Engineering**
+- 💻 Passionate about **software development**, **AI & automation**, and **game development**
+- 🤖 Working on **A.N.A. (Asistente Nativo Artificial)** – an advanced virtual assistant for desktop
+- 🎮 Developing **Deep Digs**, a gamified Pomodoro app for Android
+- 🚀 Exploring **Unity ML-Agents**, **Gym + PyBullet**, and **Firebase integration**
+- 🛠️ Learning **Blender** for 3D modeling & **Kotlin Jetpack Compose** for Android apps
+- 📂 Building my own **portfolio website** and **community Discord server**
+
+---
+
+## 🛠️ Languages & Tools
+<p align="center">
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/></a>
+  <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/> </a>
+  <a href="https://kotlinlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50"/> </a>
+  <a href="https://unity.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="50" height="50"/> </a>
+  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/> </a>
+  <a href="https://www.blender.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="Blender" width="50" height="50"/> </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/sergio-dev">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=sergio-dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-dev&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+---
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergio-dev&theme=algolia" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📢 Connect with Me
+<p align="center">
+  <a href="https://github.com/sergio-dev" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+  <a href="https://discord.gg/your-server" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> </a>
+</p>
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sergio-dev&color=blue&style=flat-square" alt="Profile Views" />
+</p>

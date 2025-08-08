@@ -4,12 +4,11 @@
 
 ## 👨‍💻 About Me
 - 🎓 Studying **Computer Science & Computer Engineering**
-- 💻 Passionate about **software development**, **AI & automation**, and **game development**
-- 🤖 Working on **A.N.A. (Asistente Nativo Artificial)** – an advanced virtual assistant for desktop
+- 💻 Passionate about **software development** and **AI & automation**
+- 🤖 Working on **Circulo** (My own social network)
 - 🎮 Developing **Deep Digs**, a gamified Pomodoro app for Android
 - 🚀 Exploring **Unity ML-Agents**, **Gym + PyBullet**, and **Firebase integration**
-- 🛠️ Learning **Blender** for 3D modeling & **Kotlin Jetpack Compose** for Android apps
-- 📂 Building my own **portfolio website** and **community Discord server**
+- 🛠️ Learning and using **Kotlin Jetpack Compose** for Android apps
 
 ---
 

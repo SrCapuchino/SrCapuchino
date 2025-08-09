@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me
 - 🎓 Studying **Computer Science & Computer Engineering**
 - 💻 Passionate about **software development** and **AI & automation**
-- 🤖 Working on **Circulo** (My own social network)
+- 🤖 Working on **Circulo** (My own social network) and **Hueco** (An Android App)
 - 🎮 Developing **Deep Digs**, a gamified Pomodoro app for Android
 - 🚀 Exploring **Unity ML-Agents**, **Gym + PyBullet**, and **Firebase integration**
 - 🛠️ Learning and using **Kotlin Jetpack Compose** for Android apps
